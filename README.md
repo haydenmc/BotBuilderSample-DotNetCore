@@ -28,6 +28,7 @@ Or use the "Download ZIP" option on the GitHub website and extract to a director
 In the same prompt, run the following to build and run your bot.
 
 ```
+cd BotBuilderSample-DotNetCore
 dotnet run
 ```
 
