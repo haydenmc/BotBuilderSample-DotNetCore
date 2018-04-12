@@ -58,3 +58,11 @@ From within Visual Studio Code, you can press F5 to run and debug your bot.
 The bot logic is located in `HelloBot.cs`
 
 You can use [the documentation for the Bot Builder SDK](https://docs.microsoft.com/en-us/azure/bot-service/dotnet/bot-builder-dotnet-overview) to learn how to use the Bot SDK to accomplish more.
+
+### 5. Deploy your bot to Azure
+
+Working on it 🚧
+
+### 6. Hook up your Azure Bot to Cortana
+
+Working on it 🚧
