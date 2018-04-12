@@ -54,6 +54,6 @@ In your command prompt, run `code .` to open an instance of Visual Studio Code i
 
 From within Visual Studio Code, you can press F5 to run and debug your bot.
 
-The bot logic is located in `HelloBot.cs`.s
+The bot logic is located in `HelloBot.cs`
 
 You can use [the documentation for the Bot Builder SDK](https://docs.microsoft.com/en-us/azure/bot-service/dotnet/bot-builder-dotnet-overview) to learn how to use the Bot SDK to accomplish more.
